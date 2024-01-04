@@ -3,13 +3,14 @@
 #### Overview
 This README outlines the steps taken to create, configure, and analyze an ecommerce data model. The process includes designing an Entity-Relationship Diagram (ERD) on Lucidchart, exporting SQL from Lucidchart, creating a database and tables, inserting demo data, configuring MySQL in Visual Studio Code (VS Code), and writing analytical SQL queries to test the dataset.
 
-#### Step 1: Creating ERD on Lucidchart
+#### Step 1: Creating ERD on Lucidchart 
 - **Objective**: Design an ERD that represents the ecommerce data model.
 - **Actions**:
   1. Open Lucidchart and create a new diagram.
   2. Design the ERD with entities like `Product`, `User`, `Order`, `OrderItem`, `ShoppingCart`, `CartItem`, and `Category`.
   3. Define relationships, primary keys, and foreign keys for each entity.
   4. Review and finalize the ERD.
+  5. Final product: https://lucid.app/lucidchart/a7fe30b3-44c1-45fe-981d-3a7921549421/edit?viewport_loc=-3847%2C-728%2C9274%2C6253%2C0_0&invitationId=inv_9165a99d-4be4-4c66-b8dd-2e551056b693
 
 #### Step 2: Exporting SQL from Lucidchart
 - **Objective**: Generate SQL statements for database creation.
